@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 550fd0e9081582540a9bc5e25fba42fb
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 7b1f4b15d02646b41a51f4e57a59f223
+    m_Address: Assets/Prefabs/BoxMove.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 164cbedbe2433d94ca3374998f1ff6d7, type: 2}
   m_SchemaSet:

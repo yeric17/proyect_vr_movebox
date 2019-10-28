@@ -495,46 +495,11 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8782655534535448829, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
+    - target: {fileID: 4306686738231347162, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
         type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      propertyPath: m_Camera
       value: 
-      objectReference: {fileID: 6705617740651277031}
-    - target: {fileID: 4513448112936503426, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3897716356638661461, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 842517217006947581, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 842517217006947581, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 842517217006947581, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 842517217006947581, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
-        type: 3}
-      propertyPath: m_Color.a
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4306686738436667501, guid: 8a1292f10368ee44ab6c54765dd4cc1e,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 963194227}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a1292f10368ee44ab6c54765dd4cc1e, type: 3}
 --- !u!1001 &6705617740651277030
@@ -606,15 +571,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18f06f58b511fbe4493b3a7fc8d1a5c6, type: 3}
---- !u!114 &6705617740651277031 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6705617741148713909, guid: 18f06f58b511fbe4493b3a7fc8d1a5c6,
-    type: 3}
-  m_PrefabInstance: {fileID: 6705617740651277030}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fdd4006fdffd1894e8d417d21793606b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

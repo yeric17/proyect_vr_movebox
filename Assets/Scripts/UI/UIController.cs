@@ -10,6 +10,7 @@ namespace GameScene {
         public UIController instace;
         [SerializeField] GameObject loadPanel = null;
         [SerializeField] GameObject mainMenuPanel = null;
+        
         private void Start(){
             instace = Instance;
         }
@@ -28,6 +29,7 @@ namespace GameScene {
             else {
                 if(mainMenuPanel.activeSelf) mainMenuPanel.SetActive(false);
             }
+            
         }
     }
 

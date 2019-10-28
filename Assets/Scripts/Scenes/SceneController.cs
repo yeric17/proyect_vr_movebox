@@ -59,6 +59,9 @@ namespace GameScene
             }
         }
 
+        public void Exit() {
+            Application.Quit();
+        }
         public int GetStartScene(){
             return (int)startScene;
         }
